@@ -1,8 +1,7 @@
 # Dan Goldberg
-Co-founder and President of [Castlerock Consulting](https://castlerockcs.com)
+## Co-founder and President of [Castlerock Consulting](https://castlerockcs.com)
 
 Contact: <support@castlerockcs.com>
-
 LinkedIn: <https://www.linkedin.com/in/dbgoldberg/>
 
 Blogs: <https://castlerockcs.com/author/dgoldberg/>
